@@ -29,7 +29,7 @@
 
 ---
 
-### 🛠️ Tech I Work With
+### 🛠️ Tech I'm Currently Working With
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
