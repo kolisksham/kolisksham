@@ -13,8 +13,6 @@
 - 🎓 Final-year Computer Science Engineering student, specializing in AI/ML
 - 🧠 I like understanding systems from the ground up — if I can't rebuild it from scratch, I don't feel like I really know it
 - 💼 Previously: Project Management Intern @ Teraforge Digital Labs LLP
-- 🏆 Shortlisted (top 25 of 60+) for an AI internship at MORR, building product strategy for an AI healthcare platform
-- 🥋 Black belt in karate, former NCC cadet, ex-football goalkeeper — discipline shows up in how I work, not just how I train
 
 ---
 
