@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 - 🎓 Final-year Computer Science Engineering student, specializing in AI/ML
-- 🧠 I like understanding systems from the ground up — if I can't rebuild it from scratch, I don't feel like I really know it
+- 🧠 I like understanding systems from the ground up. If I can't rebuild it from scratch, I don't feel like I really know it
 - 💼 Previously: Project Management Intern @ Teraforge Digital Labs LLP
 
 ---
